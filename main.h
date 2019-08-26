@@ -8,6 +8,8 @@
 #include <iostream>
 #include <vector>
 #include <string>
+#include <algorithm>
+#include "Bagging.h"
 
 using namespace std;
 
