@@ -1,0 +1,4 @@
+# Leedcode CLion config files
+.idea/
+CMakeLists.txt
+cmake-build-debug/
